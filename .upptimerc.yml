@@ -6,7 +6,9 @@ repo: eosc-perf-status # Your GitHub repository name
 sites:
   - name: eosc-perf
     url: https://perf.test.fedcloud.eu
-
+assignees: # Users to assign downtime issues (optional)
+  - vykozlov
+  - BorjaEst
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   ## c.n.a.m.e: perf-status.test.fedcloud.eu
