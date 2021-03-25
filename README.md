@@ -1,6 +1,6 @@
 # [📈 Live Status](https://perf-status.test.fedcloud.eu): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Project EOSC-perf](perf.test.fedcloud.eu), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Project EOSC-perf](https://perf.test.fedcloud.eu), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/EOSC-synergy/eosc-perf-status/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/EOSC-synergy/eosc-perf-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
