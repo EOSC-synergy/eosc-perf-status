@@ -1,11 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: EOSC-synergy # Your GitHub username
+repo: eosc-perf-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: eosc-perf
+    url: https://perf.test.fedcloud.eu
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -22,13 +22,13 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: perf-status.test.fedcloud.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #-logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: eosc-perf status monitoring
+  introTitle: "Status monitor for the EOSC-Perf site"
+  introMessage: This page provides a real-time overview of the [EOSC-Perf](https://perf.test.fedcloud.eu) site.
   navbar:
     - title: Status
       href: /
