@@ -9,10 +9,10 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # c.n.a.m.e: perf-status.test.fedcloud.eu
+  ## c.n.a.m.e: perf-status.test.fedcloud.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /$REPO
-  #-logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: /eosc-perf-status
+  ## logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: eosc-perf status monitoring
   introTitle: "Status monitor for the EOSC-Perf site"
   introMessage: This page provides a real-time overview of the [EOSC-Perf](https://perf.test.fedcloud.eu) site.
