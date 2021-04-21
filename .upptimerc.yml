@@ -4,7 +4,9 @@ repo: eosc-perf-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: eosc-perf
+  - name: eosc-performance
+    url: https://performance.services.fedcloud.eu
+  - name: eosc-perf-dev
     url: https://perf.test.fedcloud.eu
 assignees: # Users to assign downtime issues (optional)
   - vykozlov
@@ -15,9 +17,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /eosc-perf-status
   ## logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: eosc-perf status monitoring
-  introTitle: "Status monitor for the EOSC-Perf site"
-  introMessage: This page provides a real-time overview of the [EOSC-Perf](https://perf.test.fedcloud.eu) site.
+  name: eosc-performance status monitoring
+  introTitle: "Status monitor for the EOSC-Performance site"
+  introMessage: This page provides a real-time overview of the [EOSC-Performance](https://performance.services.fedcloud.eu) site.
   navbar:
     - title: Status
       href: /
