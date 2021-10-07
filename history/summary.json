@@ -22,17 +22,17 @@
     "url": "https://perf.test.fedcloud.eu",
     "icon": "https://favicons.githubusercontent.com/perf.test.fedcloud.eu",
     "slug": "eosc-perf-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 728,
-    "timeWeek": 719,
-    "timeMonth": 698,
-    "timeYear": 708,
+    "time": 707,
+    "timeDay": 681,
+    "timeWeek": 709,
+    "timeMonth": 696,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   }
 ]
