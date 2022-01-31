@@ -4,19 +4,19 @@
     "url": "https://performance.services.fedcloud.eu",
     "icon": "https://favicons.githubusercontent.com/performance.services.fedcloud.eu",
     "slug": "eosc-performance",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 457,
-    "timeWeek": 665,
-    "timeMonth": 706,
-    "timeYear": 746,
+    "time": 747,
+    "timeDay": 641,
+    "timeWeek": 685,
+    "timeMonth": 710,
+    "timeYear": 747,
     "dailyMinutesDown": {
-      "2022-01-31": 0
+      "2022-01-31": 13
     }
   },
   {
