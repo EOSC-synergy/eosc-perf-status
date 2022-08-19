@@ -34,7 +34,7 @@
     "url": "https://perf.test.fedcloud.eu",
     "icon": "https://favicons.githubusercontent.com/perf.test.fedcloud.eu",
     "slug": "eosc-perf-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
     "uptimeDay": "99.34%",
     "uptimeWeek": "99.91%",
