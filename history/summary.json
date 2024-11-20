@@ -27,18 +27,19 @@
     "url": "https://perf.test.fedcloud.eu",
     "icon": "https://icons.duckduckgo.com/ip3/perf.test.fedcloud.eu.ico",
     "slug": "eosc-perf-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1308,
+    "time": 1309,
     "timeDay": 1098,
     "timeWeek": 1138,
     "timeMonth": 1152,
     "timeYear": 1256,
     "dailyMinutesDown": {
+      "2024-11-20": 0,
       "2024-06-26": 37,
       "2024-06-25": 7
     }
