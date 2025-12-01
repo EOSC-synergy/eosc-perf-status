@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 1521,
-    "timeDay": 1325,
-    "timeWeek": 1574,
-    "timeMonth": 1685,
+    "time": 1520,
+    "timeDay": 1039,
+    "timeWeek": 1504,
+    "timeMonth": 1684,
     "timeYear": 1400,
     "dailyMinutesDown": {
       "2025-10-10": 22,
@@ -33,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/perf.test.fedcloud.eu.ico",
     "slug": "eosc-perf-dev",
     "status": "down",
-    "uptime": "88.42%",
+    "uptime": "88.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.46%",
+    "uptimeYear": "51.73%",
     "time": 1245,
     "timeDay": 0,
     "timeWeek": 0,
@@ -219,8 +219,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   }
 ]
