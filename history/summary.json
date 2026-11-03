@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/performance.services.fedcloud.eu.ico",
     "slug": "eosc-performance",
     "status": "down",
-    "uptime": "90.92%",
-    "uptimeDay": "18.79%",
+    "uptime": "90.88%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "4.30%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.77%",
+    "uptimeYear": "50.48%",
     "time": 1537,
     "timeDay": 0,
     "timeWeek": 1527,
     "timeMonth": 1527,
-    "timeYear": 1607,
+    "timeYear": 1609,
     "dailyMinutesDown": {
       "2026-11-01": 1006,
       "2026-10-31": 1440,
@@ -196,7 +196,8 @@
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1152,
-      "2026-11-02": 283
+      "2026-11-03": 334,
+      "2026-11-02": 1440
     }
   },
   {
@@ -205,7 +206,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/perf.test.fedcloud.eu.ico",
     "slug": "eosc-perf-dev",
     "status": "down",
-    "uptime": "90.35%",
+    "uptime": "90.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
