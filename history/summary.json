@@ -4,10 +4,10 @@
     "url": "https://performance.services.fedcloud.eu",
     "icon": "https://icons.duckduckgo.com/ip3/performance.services.fedcloud.eu.ico",
     "slug": "eosc-performance",
-    "status": "up",
+    "status": "down",
     "uptime": "90.32%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.18%",
+    "uptimeDay": "16.03%",
+    "uptimeWeek": "2.47%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "47.04%",
     "time": 1554,
@@ -209,7 +209,7 @@
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
-      "2026-11-15": 1186
+      "2026-11-15": 1191
     }
   },
   {
